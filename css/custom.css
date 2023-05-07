@@ -1,0 +1,5 @@
+:root {
+  --dominantColor: #008bff; /* var(--dominantColor) !important; */
+  --secondaryColor: #33a2ff; /* var(--secondaryColor) !important; */
+  --accentColor: #718391; /* var(--accentColor) !important; */
+}
